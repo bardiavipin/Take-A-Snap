@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: logo-editor-for-snap
+Bundle-SymbolicName: logo-editor-for-snap
+Bundle-Version: 1.0.0
+Created-By: 1.8.0_144 (Oracle Corporation)
+Javac-Debug: on
+Javac-Deprecation: off
+Javac-Encoding: Cp1252
+Liferay-JS-Config: /META-INF/resources/js/config.js
+Tool: Bnd-3.2.0.201605172007
+Web-ContextPath: /logo-editor-web-override

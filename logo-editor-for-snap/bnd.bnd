@@ -1,0 +1,5 @@
+Bundle-Name: logo-editor-for-snap
+Bundle-SymbolicName: logo-editor-for-snap
+Bundle-Version: 1.0.0
+Liferay-JS-Config: /META-INF/resources/js/config.js
+Web-ContextPath: /logo-editor-web-override
